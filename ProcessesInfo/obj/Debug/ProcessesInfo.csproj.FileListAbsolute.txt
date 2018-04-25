@@ -1,0 +1,15 @@
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\bin\Debug\ProcessesInfo.exe.config
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\bin\Debug\ProcessesInfo.exe
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\bin\Debug\ProcessesInfo.pdb
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.csprojResolveAssemblyReference.cache
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\MainWindow.g.cs
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\App.g.cs
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo_MarkupCompile.cache
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo_MarkupCompile.lref
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\MainWindow.baml
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.g.resources
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.Properties.Resources.resources
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.csproj.GenerateResource.cache
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.csproj.CoreCompileInputs.cache
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.exe
+C:\Users\8\source\repos\ProcessesInfo\ProcessesInfo\obj\Debug\ProcessesInfo.pdb

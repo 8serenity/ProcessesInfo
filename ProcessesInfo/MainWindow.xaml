@@ -1,0 +1,22 @@
+﻿<Window x:Class="ProcessesInfo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ProcessesInfo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <Button Name="ShowProcesses" Click="ShowProcesses_Click" Content="Show processes" Height="20" Width="100" VerticalAlignment="Top" Margin="0 10 0 0"></Button>
+        <ListView Name="InfoProcesses" ItemsSource="{Binding infoModels}" HorizontalAlignment="Center" Height="350" Margin="0 40 0 0" VerticalAlignment="Center" Width="600">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="140" Header="Id" DisplayMemberBinding="{Binding Id}"  />
+                    <GridViewColumn Width="140" Header="Name" DisplayMemberBinding="{Binding Name}" />
+                    <GridViewColumn Width="140" Header="Number Of Threads" DisplayMemberBinding="{Binding NumberOfThreads}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>
